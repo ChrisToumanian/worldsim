@@ -1,0 +1,67 @@
+Biomes
+
+time
+year
+month
+day
+season
+
+Freezing, cold, cool, moderate
+warm, hot, scorching
+Rain
+Thunderstorm
+Flood
+Windy
+Morning
+Afternoon
+Evening
+Night
+Light
+Darkness
+
+Swamp
+Marsh
+Taiga
+Temperate coniferous forest
+Temperate broadleaf forest
+Tropical coniferous forest
+Tropical moist broadleaf forest
+Grasslands
+Savanna
+Scrubland
+Badlands
+Rocky wasteland
+Sand desert
+Tropical ocean
+Temperate ocean
+Arctic ocean
+Freshwater murky pool
+Saltwater murky pool
+Brackish pool
+Freshwater lake
+Saltwater lake
+Brackish lake
+Freshwater river
+Saltwater river
+Brackish river
+Subterranean water
+Subterranean chasm
+Subterranean magma
+Mountain
+Glacier
+Tundra
+Underworld
+Cavern
+Aquifer
+Brook
+Deep pit
+Road
+Passage
+Cave
+Dark pit
+Forest retreat
+Fortress
+Hills
+Volcano
+Peak
+Delta

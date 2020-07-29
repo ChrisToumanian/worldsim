@@ -1,0 +1,96 @@
+Objects
+
+int id
+int state
+bool block
+bool player
+bool active
+string name
+float x
+float y
+float z
+
+char symbol
+string color
+bool visible
+int facing
+
+bool round
+bool physical
+bool solid
+bool liquid
+bool gas
+bool conductive
+bool wet
+int temperature
+
+bool round
+float bounciness
+float friction
+float mass
+
+int health
+int mana
+int energy
+int growth
+int spread
+float walkSpeed
+float runSpeed
+float flightSpeed
+float swimSpeed
+float width
+float height
+int vision
+int range
+
+int age
+int maxAge
+int elevation
+int rage
+int hunger
+int thirst
+string gender
+string race
+string species
+string description
+string[] biomes
+string[] factions
+string[] feelings
+string[] likes
+string[] dislikes
+string[] favorites
+string[] affairs
+
+Object[] focus
+Object[] guard
+Item[] items
+Loot[] loot
+
+bool awake
+bool hostile
+bool predator
+bool carnivorous
+bool aquatic
+bool swims
+bool flies
+bool walks
+bool runs
+bool crawls
+bool evil
+bool savage
+bool tamable
+
+void use()
+void build()
+void break()
+void dig()
+void take()
+void say()
+void yell()
+void inspect()
+void craft()
+void move()
+
+bool frozen
+bool poisoned
+bool burning

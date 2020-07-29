@@ -1,0 +1,12 @@
+Fauna
+
+Cat
+Dog
+Wolf
+Lion
+Bear
+Tiger
+Hyena
+Owl
+Pidgeon
+Rabbit

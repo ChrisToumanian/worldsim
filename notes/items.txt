@@ -1,0 +1,45 @@
+Items
+
+Flask
+Shovel
+Pick axe
+Sword
+Axe
+Shield
+Helmet
+Breastplate
+Leggings
+Boots
+Battle axe
+Crossbow
+Bow
+Mace
+Short sword
+Spear
+War hammer
+Blowgun
+Dagger
+Maul
+Great axe
+Flail
+Long sword
+Morningstar
+Scimitar
+Pike
+Scourge
+Whip
+Two-handed sword
+Arrow
+Bolt
+Blowdart
+Spike
+Giant axe blade
+Trap
+Trapdoor
+Spiked ball
+
+Gold coins
+Fossil
+Gem
+Jewel
+

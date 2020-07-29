@@ -1,0 +1,109 @@
+Blocks
+
+dirt
+soil
+grass
+dirt
+bush
+oak tree
+flowers
+water
+rock
+stone
+sand
+sandstone
+granite
+
+Adamantite
+Aluminum
+Bismuth
+Tin
+Copper
+Lead
+Silver
+Nickel
+Gold
+Iron
+Platinum
+Zinc
+Alloys
+Bronze
+Billon
+Brass
+Steel
+Sterling silver
+Rose gold
+Pig iron
+Chalk
+Chert
+Claystone
+Conglomerate
+Dolomite
+Limestone
+Mudstone
+Rock salt
+Sandstone
+Shale
+Siltstone
+Diorite
+Gabbro
+Granite
+Andesite
+Basalt
+Dacite
+Obsidian
+Rhyolite
+Gneiss
+Marble
+Phyllite
+Quartzite
+Schist
+Slate
+Alabaster
+Borax
+Calcite
+Brimstone
+Graphite
+Gypsum
+Mica
+Petrified wood
+Diamond
+Crystal
+Talc
+Glass
+Opal
+Jasper
+Jade
+Bloodstone
+Agate
+Tourmaline
+Citrine
+Chalcedony
+Lapis Lazuli
+Quartz
+Moonstone
+Onyx
+Shell
+Cats eye
+Garnet
+Zircon
+Melanite
+Rhodolite
+Ruby
+Sapphire
+
+Stone brick
+Wood door
+Iron door
+Tile floor
+Carpet floor
+Marble
+Wood wall
+Stairs
+Well
+Bridge
+
+Bed
+Chest
+Pot
+

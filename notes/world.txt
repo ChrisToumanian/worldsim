@@ -1,0 +1,16 @@
+World
+
+ticks per second: 20
+world size: 128,000^3 km / 250^3 regions
+region size: 512^3 m / 16^3 chunks
+chunk size: 32^3 m
+block size: 1 m^3
+precision: float 00000.00
+blocks: id and single state defined by an integer
+entities: collections of states that use abilities and items
+
+string name
+int ticks
+int tick
+
+void update()

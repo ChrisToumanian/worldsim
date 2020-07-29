@@ -1,0 +1,43 @@
+Structures
+
+Hamlet
+Town
+Village
+Labyrinth
+Lair
+Mountain hall
+Ruins
+Shrine
+Tomb
+Tower
+Vault
+Catacombs
+Dungeon
+Keep
+Library
+Market
+Mead hall
+Sewer
+Tavern
+Temple
+Fort
+Camp
+Brewery
+House
+Castle
+Stand
+Beekeep
+Farm
+Workshop
+Fishery
+Butchery
+Mason yard
+Wood furnace
+Smelter
+Kiln
+Loom
+Still
+Ashery
+Kitchen
+Forge
+Graveyard

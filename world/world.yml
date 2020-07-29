@@ -1,0 +1,19 @@
+# This is the main configuration file for the world.
+
+name: world
+description: This is a new world.
+debug: false
+log: false
+ticks: 20
+difficulty: easy
+hardcore: true
+seed: 999
+gravity: 1
+structures: true
+seaLevel: 16
+seaDepth: 5
+mountainHeight: 24
+plants: true
+animals: true
+monsters: true
+npcs: true

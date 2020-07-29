@@ -1,0 +1,13 @@
+Drink
+
+Water
+Booze
+Wine
+Beer
+Spirits
+Whiskey
+Rum
+Ale
+Cider
+Mead
+
